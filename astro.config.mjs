@@ -6,7 +6,7 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [starlight({
-    title: 'My Docs',
+    title: 'Seeed Office Renovation',
     social: {
       github: 'https://github.com/Love4yzp/office_renovation'
     },
