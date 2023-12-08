@@ -8,7 +8,7 @@ export default defineConfig({
   integrations: [starlight({
     title: 'My Docs',
     social: {
-      github: 'https://github.com/withastro/starlight'
+      github: 'https://github.com/Love4yzp/office_renovation'
     },
     sidebar: [{
       label: 'Guides',
