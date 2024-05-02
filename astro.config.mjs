@@ -5,10 +5,12 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://anti-fatigue.github.io',
+  base: 'https://github.com/Anti-Fatigue/anti-fatigue.github.io',
   integrations: [starlight({
-    title: 'Seeed Office Renovation',
+    title: 'Anti Fatigue Mission',
     social: {
-      github: 'https://github.com/Love4yzp/office_renovation'
+      github: 'https://github.com/Anti-Fatigue'
     },
     sidebar: [{
       label: 'Guides',
